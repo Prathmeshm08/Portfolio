@@ -1,7 +1,6 @@
 # 🚀 Prathmesh Mane - Portfolio Website
 
 <div align="center">
-  <img src="profile photo.jpeg" alt="Prathmesh Mane" width="200" style="border-radius: 50%;">
   
   ### AI/ML Engineer & Full Stack Developer
   
@@ -73,43 +72,9 @@ This is a modern, responsive portfolio website showcasing **Prathmesh Mane's** e
 - ![AOS](https://img.shields.io/badge/AOS-000000?style=for-the-badge&logo=aos&logoColor=white) - Animate On Scroll
 - ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white) - Typography
 
-### **AI/ML Skills Highlighted**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-## 🚀 Projects Showcased
-
-### 1. **🌱 Plant Disease Detection**
-- **Technology**: CNN, TensorFlow, OpenCV, Python
-- **Features**: Real-time detection, webcam integration, data augmentation
-- **GitHub**: [View Project](https://github.com/Prathmeshm08/Plant_Disease_Detection_Using-CNN_And_Gradio)
-
-### 2. **🎤 AI Voice Interview System**
-- **Technology**: React, Flask, Vapi AI, Firebase, Tailwind CSS
-- **Features**: Voice-based Q&A, resume parsing, ATS scoring, GPT evaluation
-- **Live Demo**: [JobPrepAI](https://jobprepai-ai-interview.vercel.app/)
-- **GitHub**: [View Project](https://github.com/Prathmeshm08/JobprepAI-AIInterview)
-
-### 3. **💰 Employee Salary Prediction**
-- **Technology**: Python, Streamlit, Gradient Boosting, ngrok
-- **Features**: ML algorithms, real-time predictions, interactive interface
-- **GitHub**: [View Project](https://github.com/Prathmeshm08/Employee-salary-prediction)
-
-### 4. **💬 Firebase Chat App**
-- **Technology**: React, Firebase, JavaScript, CSS3
-- **Features**: Real-time messaging, user authentication, file sharing
-- **GitHub**: [View Project](https://github.com/Prathmeshm08/firebase-chat-app)
-
-### 5. **🏢 Shree Samarth Engineering Website**
-- **Technology**: React, Tailwind CSS, FormSubmit
-- **Features**: Multi-page company website, contact form, Excel export
-- **GitHub**: [View Project](https://github.com/Prathmeshm08/ShreesamarthEngineering)
-
----
 
 ## 📦 Installation
 
@@ -171,9 +136,7 @@ This is a modern, responsive portfolio website showcasing **Prathmesh Mane's** e
 
 ## 🌐 Live Demo
 
-**Visit the live portfolio**: [Your Portfolio URL]
-
-*Note: Replace with your actual deployed URL when available*
+**Visit the live portfolio**: [[Your Portfolio URL]](https://prathmeshmane.vercel.app/)
 
 ---
 
@@ -190,11 +153,6 @@ This is a modern, responsive portfolio website showcasing **Prathmesh Mane's** e
 - **WhatsApp**: [+91-9373951730](https://wa.me/919373951730)
 - **X (Twitter)**: [@iamprathmesh08](https://x.com/iamprathmesh08)
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -211,3 +169,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
   <p>Made with ❤️ by <strong>Prathmesh Mane</strong></p>
   <p>⭐ Star this repository if you found it helpful!</p>
 </div>
+
